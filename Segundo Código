@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main () {
+  printf("\n Miguel Angel Bautista Contreras\n";
+  printf("Este es mi segundo código");
+  printf("Programar es fácil");
+  Printf("Voy a compartir el código con mi compañero: Emmanuel González Mendoza");
+  return 0;
+  }
